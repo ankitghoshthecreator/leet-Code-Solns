@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0626-exchange-seats) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
