@@ -38,9 +38,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
