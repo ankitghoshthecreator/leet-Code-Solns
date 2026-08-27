@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1393-capital-gainloss](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1393-capital-gainloss) |
 | [1907-count-salary-categories](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1934-confirmation-rate) |
 ## String
 |  |
 | ------- |
