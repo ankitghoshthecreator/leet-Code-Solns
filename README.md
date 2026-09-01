@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0175-combine-two-tables) |
 | [0626-exchange-seats](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0626-exchange-seats) |
 | [1158-market-analysis-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1158-market-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1327-list-the-products-ordered-in-a-period) |
