@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0054-spiral-matrix) |
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
