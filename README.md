@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0118-pascals-triangle) |
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
 ## Bit Manipulation
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
