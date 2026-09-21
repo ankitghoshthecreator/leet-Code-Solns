@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0324-wiggle-sort-ii) |
 | [0991-broken-calculator](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0991-broken-calculator) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 ## Quickselect
 |  |
 | ------- |
