@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0991-broken-calculator](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0991-broken-calculator) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0324-wiggle-sort-ii) |
+| [0991-broken-calculator](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0991-broken-calculator) |
 ## Quickselect
 |  |
 | ------- |
