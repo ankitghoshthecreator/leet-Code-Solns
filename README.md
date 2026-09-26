@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
+| [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
 | [0306-additive-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0306-additive-number) |
 ## Backtracking
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
 | [0991-broken-calculator](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0991-broken-calculator) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
