@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0324-wiggle-sort-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 ## Counting
 |  |
 | ------- |
@@ -157,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
