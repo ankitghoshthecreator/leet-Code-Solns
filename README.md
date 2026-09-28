@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0198-house-robber) |
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0324-wiggle-sort-ii) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0991-broken-calculator](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0991-broken-calculator) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 ## Quickselect
