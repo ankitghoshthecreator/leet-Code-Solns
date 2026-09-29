@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
+| [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Linked List
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0991-broken-calculator](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0991-broken-calculator) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
 ## Quickselect
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+| [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+| [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
 ## Stack
 |  |
 | ------- |
