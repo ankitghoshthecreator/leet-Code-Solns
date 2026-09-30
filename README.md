@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0324-wiggle-sort-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
+| [0475-heaters](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0324-wiggle-sort-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0475-heaters](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 | [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
@@ -171,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0475-heaters](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0475-heaters](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
