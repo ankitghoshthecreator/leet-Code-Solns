@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
 | [0306-additive-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0306-additive-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 | [0814-binary-tree-pruning](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0814-binary-tree-pruning) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 | [0814-binary-tree-pruning](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0814-binary-tree-pruning) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
