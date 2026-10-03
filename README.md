@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 | [0814-binary-tree-pruning](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0814-binary-tree-pruning) |
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 | [0814-binary-tree-pruning](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0814-binary-tree-pruning) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0404-sum-of-left-leaves) |
 | [0814-binary-tree-pruning](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0814-binary-tree-pruning) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
