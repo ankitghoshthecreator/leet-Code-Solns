@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0626-exchange-seats) |
 | [1158-market-analysis-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1158-market-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1393-capital-gainloss) |
 | [1907-count-salary-categories](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1934-confirmation-rate) |
