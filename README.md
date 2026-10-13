@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
 | [0306-additive-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0306-additive-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
 | [0473-matchsticks-to-square](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0473-matchsticks-to-square) |
 ## Bitmask
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -213,9 +216,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1267-count-servers-that-communicate) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
