@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1158-market-analysis-i) |
+| [1179-reformat-department-table](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
