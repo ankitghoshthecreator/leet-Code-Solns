@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
 | [0306-additive-number](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0306-additive-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1400-construct-k-palindrome-strings](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1400-construct-k-palindrome-strings) |
 ## Backtracking
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1400-construct-k-palindrome-strings](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1400-construct-k-palindrome-strings) |
 ## Heap (Priority Queue)
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Union-Find
 |  |
 | ------- |
