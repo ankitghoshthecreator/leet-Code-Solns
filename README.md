@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -222,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0227-basic-calculator-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0143-reorder-list) |
 | [0475-heaters](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0701-insert-into-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
