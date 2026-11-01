@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0817-linked-list-components](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0817-linked-list-components) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0143-reorder-list) |
+| [0817-linked-list-components](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0187-repeated-dna-sequences) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0621-task-scheduler) |
+| [0817-linked-list-components](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
