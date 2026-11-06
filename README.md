@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1407-top-travellers) |
 | [1517-find-users-with-valid-e-mails](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1517-find-users-with-valid-e-mails) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1873-calculate-special-bonus](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1934-confirmation-rate) |
