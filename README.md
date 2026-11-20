@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0994-rotting-oranges](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0994-rotting-oranges) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1090-largest-values-from-labels](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1090-largest-values-from-labels) |
 | [1267-count-servers-that-communicate](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1267-count-servers-that-communicate) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/0658-find-k-closest-elements) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitghoshthecreator/leet-Code-Solns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
